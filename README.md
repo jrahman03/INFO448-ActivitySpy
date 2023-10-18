@@ -1,5 +1,5 @@
 # INFO448-ActivitySpy
-A homework for my UW INFO448 class.
+A homework for my UW INFO448 class. Extra Credit Complete!
 
 ## Goal
 The goal of this homework is to:
